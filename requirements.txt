@@ -1,0 +1,4 @@
+discord_webhook
+urllib3
+asyncio
+colorama

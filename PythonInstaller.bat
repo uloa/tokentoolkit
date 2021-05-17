@@ -2,5 +2,5 @@
 echo Elevating and redirecting to C:\ drive
 cd C:\
 echo Installing...
-start python-3.9.0.exe /passive InstallAllUsers=1 PrependPath=1 Include_test=0
+start python-3.9.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
 echo Installation Complete...

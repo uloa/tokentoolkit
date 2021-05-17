@@ -4,3 +4,4 @@ pip install discord_webhook
 pip install urllib3
 pip install asyncio
 pip install colorama
+pip install PySimpleGUI
